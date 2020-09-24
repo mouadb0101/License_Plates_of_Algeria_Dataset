@@ -15,6 +15,7 @@ For the license plate recognition part, we collect the plates extracted during t
 <img src="Image/plate.jpg">
 </p>
 
+note: this is a sample of the dataset. For a full dataset contact us.
 ## Citation 
 
 Please cite LP-Dataset-Algeria in your publications if it helps your research:
