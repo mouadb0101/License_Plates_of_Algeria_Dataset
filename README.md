@@ -18,12 +18,12 @@ For the license plate recognition part, we collect the plates extracted during t
 note: this is a sample of the dataset. For a full dataset contact us.
 ## Citation 
 
-Please cite LP-Dataset-Algeria in your publications if it helps your research:
+Please cite LPA-Dataset in your publications if it helps your research:
 
 ```
-@article{mouad2019dataset,
+@article{lpa2019dataset,
       title={License Plates of Algeria Dataset},
-      author={Mouad B., and Mokhtar T., and Mohamed N. Z. },
+      author={LPA-Dataset, License Plates of Algeria Dataset },
       note={\url{https://github.com/mouad12345/License_Plates_of_Algeria_Dataset}},
       year={2019}
  }
