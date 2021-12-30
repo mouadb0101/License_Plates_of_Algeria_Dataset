@@ -21,12 +21,13 @@ note: this is a sample of the dataset. For a full dataset contact us.
 Please cite LPA-Dataset in your publications if it helps your research:
 
 ```
-@article{lpa2019dataset,
-      title={License Plates of Algeria Dataset},
-      author={LPA-Dataset, License Plates of Algeria Dataset },
-      note={\url{https://github.com/mouad12345/License_Plates_of_Algeria_Dataset}},
-      year={2019}
- }
+@inproceedings{bensouilah2021alpr,
+  title={An ALPR System-based Deep Networks for the Detection and Recognition.},
+  author={Bensouilah, Mouad and Zennir, Mohamed Nadjib and Taffar, Mokhtar},
+  booktitle={ICPRAM},
+  pages={204--211},
+  year={2021}
+}
 
 ```
 
