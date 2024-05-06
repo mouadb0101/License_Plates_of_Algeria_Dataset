@@ -15,7 +15,7 @@ For the license plate recognition part, we collect the plates extracted during t
 <img src="Image/plate.jpg">
 </p>
 
-note: this is a sample of the dataset. For a full dataset contact us.
+note: this is a sample of the dataset. For a full dataset contact us (mouad.bensouilah@gmail.com).
 ## Citation 
 
 Please cite LPA-Dataset in your publications if it helps your research:
